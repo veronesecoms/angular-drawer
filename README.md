@@ -14,7 +14,7 @@
 ## Apresentation
 ![](public/draw-component.gif)
 
-## Technologies that i used
+## Technologies
 * Angular
 
 ## Setup
