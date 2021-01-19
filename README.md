@@ -2,6 +2,7 @@
 > This project is a example of how implement a drawer/signature component in Angular. <br>
 
 ![Uses TypeScript](https://img.shields.io/badge/Uses-Typescript-294E80.svg)
+![LICENSE MIT](https://img.shields.io/github/license/veronesecoms/angular-drawer?color=MIT)
  <br>
 
 ## Table of contents
